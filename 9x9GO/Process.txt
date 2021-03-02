@@ -1,0 +1,2 @@
+my pieces colour : W
+9iB,2hW,8bB,7hW,9hB,7gW,2dB,7cW,6iB,2eW,7iB,3dW,9gB,8hW,9fB,8iW,9eB,8eW,9dB,8cW,9cB,7bW,9bB,8aW,9aB,7aW,8gB,8fW,8dB,7dW,9iB,5hW,9aB,2cW,9hB,9gW,9iB,1dW,9bB,9cW,1iB,2iW,3iB,3hW,4iB,5iW,1hB,1gW,1iB,4hW,3iB,6hW,7iB,6iW,1aB,2bW,1cB,1bW,1eB,1fW,2aB,3aW,1aB,2aW,
