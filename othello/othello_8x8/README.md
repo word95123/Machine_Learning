@@ -3,10 +3,8 @@
 ## 操作教學
 <font size="14">使用keras框架訓練
 安裝keras: pip install keras</font>
-```html
-遊戲介面使用pygame(
-<font color="red">注意:適用於1.9版本，2.0以上會出現問題
-)
+```css
+遊戲介面使用pygame(<body style="color:red;">注意:適用於1.9版本，2.0以上會出現問題</body>)
 ```
 安裝pygame: pip install pygame==1.9.6rc2
 ## 訓練
